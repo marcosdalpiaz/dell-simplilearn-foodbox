@@ -1,0 +1,19 @@
+.container {
+  margin: 30px;
+  text-align: center;
+  width: 400px; 
+  height: 150px; 
+  left: 50%; 
+  margin: -130px 0 0 -210px; 
+  padding:10px;
+  position: absolute; 
+  top: 30%;
+}
+
+.link, .link:visited {
+  color: #1E90FF;
+}
+
+.link:hover {
+  color: #00008B;
+}
